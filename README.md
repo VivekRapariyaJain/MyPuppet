@@ -1,0 +1,2 @@
+# MyPuppet
+First puppet repository
